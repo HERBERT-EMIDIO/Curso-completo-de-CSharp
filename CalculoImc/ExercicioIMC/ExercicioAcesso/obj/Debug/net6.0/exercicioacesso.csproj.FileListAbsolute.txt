@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\exercicioacesso.exe
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\exercicioacesso.deps.json
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\exercicioacesso.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\exercicioacesso.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\ref\exercicioacesso.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\bin\Debug\net6.0\exercicioacesso.pdb
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\ref\exercicioacesso.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.pdb
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\exercicioacesso\obj\Debug\net6.0\exercicioacesso.genruntimeconfig.cache

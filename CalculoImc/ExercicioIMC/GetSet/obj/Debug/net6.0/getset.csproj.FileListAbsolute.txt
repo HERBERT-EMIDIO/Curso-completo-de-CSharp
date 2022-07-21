@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\getset\obj\Debug\net6.0\getset.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\getset\obj\Debug\net6.0\getset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\getset\obj\Debug\net6.0\getset.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\getset\obj\Debug\net6.0\getset.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\getset\obj\Debug\net6.0\getset.csproj.CoreCompileInputs.cache

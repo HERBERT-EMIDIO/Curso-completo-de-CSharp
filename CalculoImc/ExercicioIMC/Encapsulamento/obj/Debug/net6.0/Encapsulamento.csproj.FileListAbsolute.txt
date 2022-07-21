@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\Encapsulamento.exe
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\Encapsulamento.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\ref\Encapsulamento.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb
+C:\Users\Lenovo\source\repos\CalculoImc\ExercicioIMC\Encapsulamento\obj\Debug\net6.0\Encapsulamento.genruntimeconfig.cache
