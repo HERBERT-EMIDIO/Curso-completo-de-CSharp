@@ -1,4 +1,6 @@
-﻿using CursoCSharp.OO;
+﻿using CursoCSharp.Excecoes;
+using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.OO;
 using CursoCSharp.Colecoes;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturasDeControle;
@@ -75,6 +77,25 @@ namespace CursoCSharp
                 { "Herança - POO", Heranca.Executar},
                 { "Construtor This - POO", ConstrutorThis.Executar},
                 { "Encapsulamento - POO", OO.Encapsulamento.Executar},
+                { "Polimorfismo - POO", OO.Polimorfismo.Executar},
+                { "Abstract - POO", OO.Abstract.Executar},
+                { "Interface - POO", OO.Interface.Executar},
+                { "Sealed - POO", OO.Sealed.Executar},
+
+
+                //Metodos & Funções
+                { "Exemplo Lambda - Métodos & Funcoes", ExemploLambda.Executar},
+                { "Lambdas Como Delegates - Métodos & Funcoes", LambdasDelegate.Executar},
+                { "Usando Delegates - Métodos & Funcoes", UsandoDelegates.Executar},
+                { "Delegates Como Função Anonima - Métodos & Funcoes", DelegateFunAnonima.Executar},
+                { "Delegates Como Parâmetros - Métodos & Funcoes", DelegatesComoParametros.Executar},
+                { "Métodos De Extensão - Métodos & Funcoes", MetodosDeExtensao.Executar},
+
+
+
+                //Exceções
+                { "Primeira Exceção - Excecões", PrimeiraExcecao.Executar},
+
 
 
                
